@@ -1,7 +1,11 @@
 Name: RUSWETHA KUNIPALLI
+
 Company: CODTECH IT SOLUTIONS
-ID: CT08WD39
+
+ID: CT04WX124
+
 Domain: Full Stack Web Development
+
 Duration: March to April 2025
 
 OVERVIEW OF THE PROJECT
