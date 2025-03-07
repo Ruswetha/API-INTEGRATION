@@ -1,3 +1,5 @@
+#API-INTEGRATION
+
 Company: CODTECH IT SOLUTIONS
 
 Name: RUSWETHA KUNIPALLI
@@ -6,7 +8,9 @@ ID: CT04WX124
 
 Domain: Full Stack Web Development
 
-Duration: March to April 2025
+Duration: 4 WEEKS
+
+Mentor:NEELA SANTHOSH
 
 OVERVIEW OF THE PROJECT
 
@@ -23,6 +27,7 @@ From a technical perspective, the app relies on three core web technologies. HTM
 While the app is simple, several enhancements can be made to improve its functionality. One potential upgrade is adding more weather details, such as humidity, wind speed, and atmospheric pressure, to provide users with comprehensive weather insights. Another useful feature would be auto-detecting the user’s location using the Geolocation API, allowing users to check their current city’s weather instantly. The app could also incorporate weather-related icons for better visualization of weather conditions. Additionally, UI/UX improvements, such as adding CSS animations and a dark mode option, would enhance the app’s look and usability.  
 
 In conclusion, the Weather App is a great beginner-friendly project that demonstrates how to fetch and display real-time data from an API. It serves as an excellent learning experience for understanding JavaScript, API integration, and front-end development. Despite its simplicity, the app can be further expanded with additional features to make it more engaging and functional. This project is an ideal starting point for developers looking to gain experience in working with APIs and web development technologies.
-![image](https://github.com/user-attachments/assets/3d75d42e-49a0-4895-aa2a-79878774b210)
+![Screenshot 2025-03-07 153954](https://github.com/user-attachments/assets/85914022-a210-4c06-a280-a06260aa4b27)
+
 
 
